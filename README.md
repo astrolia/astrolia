@@ -1,12 +1,9 @@
-<h2 align="center">
-Hi, I'm astrolia
-</h2>
 
 I'm a Computer Science Student at IFSP, currencly studing about Data Science, Machine Learning, and Deep Learning. 
 
 <h2>Technologies</h2>
 
-Programming languages
+>Programming languages
 <table>
   <tr>
     <td align="center" width="96">
@@ -29,7 +26,8 @@ Programming languages
     </td>
   </tr>
 </table>
-Libraries
+
+>Libraries
 <table>
   <tr>
       <td align="center" width="96">
@@ -49,7 +47,8 @@ Libraries
       <br>
   </tr>
 </table>
-Operating system
+
+>OS
 <table>
   <tr>
     <td align="center" width="96">
