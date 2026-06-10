@@ -6,7 +6,7 @@ I'm a Computer Science Student at IFSP, currencly studing about Data Science, Ma
 
 <h2>Technologies</h2>
 
->Programming languages
+Programming languages
 <table>
   <tr>
     <td align="center" width="96">
@@ -29,7 +29,7 @@ I'm a Computer Science Student at IFSP, currencly studing about Data Science, Ma
     </td>
   </tr>
 </table>
->Libraries
+Libraries
 <table>
   <tr>
       <td align="center" width="96">
@@ -49,7 +49,7 @@ I'm a Computer Science Student at IFSP, currencly studing about Data Science, Ma
       <br>
   </tr>
 </table>
->Operating system
+Operating system
 <table>
   <tr>
     <td align="center" width="96">
